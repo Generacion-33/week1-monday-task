@@ -1,6 +1,6 @@
 ## **📋 SEMANA #1**
 
-En esta semana podrás poner en práctica:
+Podrás poner en práctica:
 
 -  Variables
 
