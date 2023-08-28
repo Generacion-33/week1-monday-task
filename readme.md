@@ -1,4 +1,4 @@
-## **📋 SEMANA #1**
+## **📋 SEMANA #1 - LUNES**
 
 Podrás poner en práctica:
 
@@ -6,9 +6,9 @@ Podrás poner en práctica:
 
 ---
 
-## **NODEMON y TESTING**
+## **TESTING  ✅**
 
-Para  visualizar tus console.log() y ejecutar tus tests correctamente debes seguir los siguientes pasos:
+Para ejecutar tus tests correctamente debes seguir los siguientes pasos:
 
 1. Abrir una nueva terminal en vscode y estar posicionado en la carpeta raiz, por ejemplo: `fundamentos/semana1/task`, justamente donde estan estas instrucciones, después ejecuta el siguiente comando:
 
@@ -16,23 +16,17 @@ Para  visualizar tus console.log() y ejecutar tus tests correctamente debes segu
     npm install
 ```
 
-1. Nodemon: Si quieres revisar lo que está sucediendo en tu código a traves de console.log(), puedes hacer lo siguiente:
-
-```bash
-    npm run dev
-```
-- Pondrás ver los mensajes que tu programa escribe en la terminal
-
 ---
 
-2. Testing: Para comprobar tus resultados
-
--  Para ejecutar todos los test del lunes, ejecuta el comando:
+2. Testing: Para comprobar tus resultados deberas ejecutar los test.
+    - Ejecuta el comando:
 
 ```bash
-    npm test
+    npm run test
 ```
+---
 
-
+3. Considera realizar todas las modifaciones necesarias hasta que todos los test pasen con exito ✅ 💪
+---
 
 
