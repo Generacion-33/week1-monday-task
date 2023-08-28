@@ -1,0 +1,21 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "evaluative task",
+  "main": "exercises.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "nodemon ./src/exercises/exercises.js"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "ghiomadev",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "29.6.4"
+  },
+  "devDependencies": {
+    "nodemon": "3.0.1"
+  }
+}
