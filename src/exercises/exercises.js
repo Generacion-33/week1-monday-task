@@ -25,7 +25,7 @@ Ejercicio 3:
 //resolver aquí
 
 /*
- Ejercicio #1
+ Ejercicio #true or false
  Las siguientes declaraciones de variables pueden estar correctas o incorrectas.
  Tu labor es colocar un true o false si la declaración es correcta o incorrecta respectivamente.
  Reemplaza null por el valor correspondiente para cada declaración.
@@ -67,6 +67,7 @@ module.exports = {
   //3
   userName,
   lastName,
+  // true or false
   exercise4,
   exercise5,
   exercise6,
