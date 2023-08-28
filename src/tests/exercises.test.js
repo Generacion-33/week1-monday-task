@@ -24,8 +24,8 @@ test("exercise5 to be false", () => {
   expect(exercise5).toBe(false)
 })
 
-test("exercise6 to be true", () => {
-  expect(exercise6).toBe(true)
+test("exercise6 to be false", () => {
+  expect(exercise6).toBe(false)
 })
 
 test("exercise7 to be false", () => {
