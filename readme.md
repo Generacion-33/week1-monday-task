@@ -18,8 +18,9 @@ Para ejecutar tus tests correctamente debes seguir los siguientes pasos:
 
 ---
 
-2. Testing: Para comprobar tus resultados deberas ejecutar los test.
-    - Ejecuta el comando:
+2. Testing: Antes de ejecutar los test debes haber completado todos los ejercicios. 
+
+    - Para comprobar tus resultados deberas ejecutar los test. Para ello escribe en la consola el siguiente comando:
 
 ```bash
     npm run test
